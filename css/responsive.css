@@ -1,0 +1,546 @@
+/* 
+  ##Device = Most of the Galaxy fold Mobiles (Portrait)
+  ##Screen = B/w 279px to 319px
+*/
+
+@media (min-width: 279px) and (max-width: 319px) {
+
+    /* CSS */
+
+.container {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .col-6 {
+        width: 100%;
+        float: left;
+    }
+
+    .header .logo {
+        display: block;
+        text-align: center;
+    }
+    
+    .inner-feature {
+    width: 60%;
+    padding: 60px 40px;
+    margin: 0px 20px;
+    float: left;
+}
+
+
+    /*
+* {
+    padding: 0px;
+    margin: 0px;
+}
+*/
+
+    .nav-menu {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .nav-menu a {
+        display: block;
+        font-size: 10px;
+        line-height: 22px;
+        font-weight: 500;
+        text-transform: capitalize;
+        margin: 5px 5px 0px;
+        color: #0B66FD;
+        transition: .25s;
+    }
+
+
+    .banner {
+        margin-top: -57px;
+    }
+
+    .banner h1 {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 35px;
+        color: #0F2656;
+        margin: 45px 0px 10px;
+    }
+
+    .banner p {
+        font-size: 8px;
+        line-height: 16px;
+        color: #0F2656;
+        margin: 0px 0px 10px;
+        text-align: center;
+    }
+
+
+    .banner img {
+        width: 86%;
+        margin-top: 23px;
+    }
+
+
+    .left-text {
+        width: 100%;
+        float: left;
+        text-align: left;
+    }
+
+
+    .left-text h1 {
+        font-size: 49px;
+        font-weight: 700;
+        line-height: 61px;
+        color: #F15867;
+        margin: 0px 0px 0px 20px;
+    }
+
+    .left-text p {
+        font-size: 10px;
+        line-height: 24px;
+        color: #0F2656;
+        margin: 0px 0px 13px 22px;
+    }
+
+
+    .right-text h1 {
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 46px;
+        color: #0F2656;
+        margin: 0px 0px 0px 20px;
+    }
+
+    .col-4 {
+        margin-bottom: 20px;
+        width: 95%;
+        float: left;
+    }
+
+    .feature {
+        width: 100%;
+        float: left;
+        padding: 0px;
+    }
+
+    .footer p {
+        font-size: 8px;
+        margin-top: 15px;
+        line-height: 24px;
+        color: #f0f0f0;
+    }
+
+
+    #pages-img {
+        width: 72%;
+        padding: 5px 42px;
+        margin: 0px 20px;
+        float: left;
+        text-align: center;
+    }
+
+
+    .haf1 {
+        margin-left: 15px;
+        margin-bottom: 59px;
+    }
+
+    .haf1,
+    haf2 {
+        width: 100%;
+    }
+
+    /* CSS */
+
+
+}
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* CSS */
+
+    .container {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .col-6 {
+        width: 100%;
+        float: left;
+    }
+
+    .header .logo {
+        display: block;
+        text-align: center;
+    }
+
+
+    /*
+* {
+    padding: 0px;
+    margin: 0px;
+}
+*/
+
+    .nav-menu {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .nav-menu a {
+        display: block;
+        font-size: 12px;
+        line-height: 22px;
+        font-weight: 500;
+        text-transform: capitalize;
+        margin: 5px 5px 0px;
+        color: #0B66FD;
+        transition: .25s;
+    }
+
+
+    .banner {
+        margin-top: -57px;
+    }
+
+    .banner h1 {
+        font-size: 33px;
+        font-weight: 700;
+        line-height: 35px;
+        color: #0F2656;
+        margin: 45px 0px 10px;
+    }
+
+    .banner p {
+        font-size: 10.9px;
+        line-height: 16px;
+        color: #0F2656;
+        margin: 0px 0px 10px;
+        text-align: center;
+    }
+
+
+    .banner img {
+        width: 86%;
+        margin-top: 23px;
+    }
+
+
+    .left-text {
+        width: 100%;
+        float: left;
+        text-align: left;
+    }
+
+
+    .left-text h1 {
+        font-size: 51px;
+        font-weight: 700;
+        line-height: 61px;
+        color: #F15867;
+        margin: 0px 0px 0px 20px;
+    }
+
+    .left-text p {
+        font-size: 12px;
+        line-height: 24px;
+        color: #0F2656;
+        margin: 0px 0px 13px 22px;
+    }
+
+
+    .right-text h1 {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 46px;
+        color: #0F2656;
+        margin: 0px 0px 0px 20px;
+    }
+
+    .col-4 {
+        margin-bottom: 20px;
+        width: 95%;
+        float: left;
+    }
+
+    .feature {
+        width: 100%;
+        float: left;
+        padding: 0px;
+    }
+
+    .footer p {
+        font-size: 11px;
+        margin-top: 15px;
+        line-height: 24px;
+        color: #f0f0f0;
+    }
+
+
+    #pages-img {
+        width: 72%;
+        padding: 5px 42px;
+        margin: 0px 20px;
+        float: left;
+        text-align: center;
+    }
+
+
+    .haf1 {
+        margin-left: 15px;
+        margin-bottom: 59px;
+    }
+
+    .haf1,
+    haf2 {
+        width: 100%;
+    }
+
+    /* CSS */
+
+
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    /* CSS */
+    .container {
+        width: 100%;
+        margin: 0px auto;
+    }
+
+    .col-6 {
+        width: 100%;
+        float: left;
+    }
+
+    .header .logo {
+        display: block;
+        text-align: center;
+    }
+    
+    /*
+* {
+    padding: 0px;
+    margin: 0px;
+}
+*/
+
+    .nav-menu {
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+
+    .nav-menu a {
+        display: block;
+        font-size: 13px;
+        line-height: 22px;
+        font-weight: 500;
+        text-transform: capitalize;
+        margin: 5px 5px 0px;
+        color: #0B66FD;
+        transition: .25s;
+    }
+
+
+    .banner {
+        margin-top: -57px;
+    }
+
+    .banner h1 {
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 35px;
+        color: #0F2656;
+        margin: 45px 0px 10px;
+    }
+
+    .banner p {
+        font-size: 12px;
+        line-height: 16px;
+        color: #0F2656;
+        margin: 0px 0px 10px;
+        text-align: center;
+        margin: 14px;
+    }
+
+
+    .banner img {
+        width: 88%;
+        margin-top: 33px;
+    }
+
+
+    .left-text {
+        width: 100%;
+        float: left;
+        text-align: left;
+    }
+
+
+    .left-text h1 {
+        font-size: 52px;
+        font-weight: 700;
+        line-height: 62px;
+        color: #F15867;
+        margin: 0px 0px 0px 20px;
+    }
+
+    .left-text p {
+        font-size: 13px;
+        line-height: 24px;
+        color: #0F2656;
+        margin: 0px 0px 13px 22px;
+    }
+
+
+    .right-text h1 {
+        font-size: 38px;
+        font-weight: 700;
+        line-height: 46px;
+        color: #0F2656;
+        margin: 0px 0px 0px 20px;
+    }
+
+    .col-4 {
+        margin-bottom: 20px;
+        width: 95%;
+        float: left;
+    }
+
+    .feature {
+        width: 100%;
+        float: left;
+        padding: 0px;
+    }
+
+    .footer p {
+        font-size: 13px;
+        margin-top: 15px;
+        line-height: 24px;
+        color: #f0f0f0;
+    }
+
+
+    #pages-img {
+        width: 72%;
+        padding: 10px 50px;
+        margin: 0px 20px;
+        float: left;
+        text-align: center;
+    }
+
+
+    .haf1 {
+        margin-left: 15px;
+        margin-bottom: 59px;
+    }
+
+    .haf1,
+    haf2 {
+        width: 100%;
+        width: 100%;
+    }
+    
+    .inner-feature {
+    width: 72%;
+    padding: 60px 40px;
+    margin: -4px 35px;
+    float: left;
+}
+    
+    /* CSS */
+
+
+}
+
+
+
+
+/* 
+  ##Device = Tablets, Notebook, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    /* CSS */
+    
+    
+    .nav-menu {
+    width: 95%;
+    float: left;
+    text-align: right;
+}
+    
+    .nav-menu a {
+    display: block;
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin: 10px 10px 0px;
+    color: #0B66FD;
+    transition: .25s;
+}
+    
+    .banner p {
+    font-size: 18px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+    font-weight: 600;
+}
+    
+    .left-text p {
+    font-size: 18px;
+    line-height: 24px;
+    color: #0F2656;
+    margin: 0px 20px 0px 0px;
+    font-weight: 600;
+}
+    
+    
+    
+    
+    
+    
+    .footer {
+    width: 149%;
+    height: 50px;
+    float: left;
+    background: #0B66FD;
+    text-align: center;
+}
+    
+    .footer p {
+    font-size: 24px;
+    margin-top: 12px;
+    line-height: 24px;
+    color: #f0f0f0;
+}
+    
+    
+    
+    
+    
+    
+    /* CSS */
+
+
+}
